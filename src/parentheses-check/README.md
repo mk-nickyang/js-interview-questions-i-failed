@@ -4,11 +4,6 @@ Return true if a string is made with one or more valid parentheses, otherwise re
 
 Time: 15 mins
 
-// (()) true
-// ()(()) true
-// )( false
-// (())( false
-
 ## Examples
 
 ```
